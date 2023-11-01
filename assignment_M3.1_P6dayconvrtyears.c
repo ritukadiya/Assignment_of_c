@@ -3,7 +3,7 @@
 
 main()
 {
-    int number_of_days, years=0, months=0, days=0;
+    int number_of_days, years=0, days=0;
 
     
     printf("Enter number of days: ");
